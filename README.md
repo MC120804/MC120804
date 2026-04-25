@@ -11,10 +11,8 @@
 </p>
 
 ---
-
 ### 🚀 Always
 building • learning • improving
-
 ---
 - love understanding how things work
 ---
