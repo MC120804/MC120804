@@ -19,6 +19,6 @@ building • learning • improving
 
 ---
 
-- love understanding how things work
+love understanding how things work
   
 
