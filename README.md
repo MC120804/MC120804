@@ -8,6 +8,8 @@
 <p align="center">
 💻 focused on Java development
 
+##
+
 ### 🚀 Always
 building • learning • improving
 
