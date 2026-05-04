@@ -9,9 +9,6 @@
 💻 focused on Java development
 </p>
 
-
----
-
 ### 🚀 Always
 building • learning • improving
 
