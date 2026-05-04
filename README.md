@@ -8,7 +8,6 @@
 <p align="center">
 💻 focused on Java development
 </p>
-##
 
 <p align="center">
 🚀 <strong>Always</strong><br>
