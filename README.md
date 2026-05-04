@@ -7,11 +7,13 @@
 <h1 align="center">Backend Developer</h1>
 <p align="center">
 💻 focused on Java development
- 
+</p>
 ##
 
-### 🚀 Always
+<p align="center">
+🚀 <strong>Always</strong><br>
 building • learning • improving
+</p>
 
  ##
 <div align="center"> 
