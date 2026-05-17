@@ -5,10 +5,6 @@
 </p>
 
 <h1 align="center">Backend Developer</h1>
-<p align="center">
-💻 focused on Java development
-</p>
-
 
 <p align="center">
 🚀 <strong>Always</strong><br>
